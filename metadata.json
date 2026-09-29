@@ -1,0 +1,7 @@
+{
+  "name": "Ultimate Travel & Transportation - AI Journey Planner",
+  "description": "Agentic AI-powered end-to-end travel planning and transportation optimization platform.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
